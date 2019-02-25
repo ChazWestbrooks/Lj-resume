@@ -1,0 +1,43 @@
+<html>
+<style>
+.title .date { float:right }
+.title .name { float:left }
+</style>
+  <body>
+<h1 id=Top> <center>Laura Jones</center></h1>
+<h4> <center>Brooklyn ljones@brooklyn.nyc</center></h4>
+<h2 id=Ed>
+Education
+</h2>
+Howard University <br/>
+Computer Science, BS/MS,<br/>
+2005-2012<br/>
+<h2 id=WorkEx>
+Work Experience
+</h2>
+
+<div class="title">
+<span class="name"><b>Amazon-Network Engineer</b> </span>
+<span class="date"> <b>2014 - Present</b></span>
+  <span style="float: both;"></span>
+</div><br/>
+
+
+<ul>
+  <li>ljk;sfd jsad;flkj;l fkjasd;l fkajf; lakjfa</li>
+  <li>sdaf lksadjf ;lksadj f;lsakd fjsa;ldfk jsad</li>
+  <li>sdafl kjsad;lf ksjadf;l ksadjf;lsakdj fas;ldk fjsa</li>
+</ul>
+<div class="title">
+<span class="name"><b>Walmart- Salesforce Engineer</b></span>
+<span class="date"><b>June 2013 - Sept 2013</b></span>
+</div><br/>
+<ul>
+<li>LK:LKDFJ :LKDJ :LDKFJ :L KJ F:DLK JF:LKF J</li>
+<li>s ldkjf;dlsak j;alkf ja;lfk ja;lf kja</li>
+<li>sdlkf asd;lkf jdsa;lfk jsa;lka sdj;ldsakf jdsa</li>
+</ul>
+  </body>
+  <center><a href=#Top>Top</a> <a href=#WorkEx>Work Experince</a>
+  <a href=#Ed>Education</a></center>
+</html>
